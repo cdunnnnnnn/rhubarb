@@ -14,7 +14,7 @@ import Page404 from './Page404'
 class App extends Component {
   render() {
     return (
-      <div className="container font-sans bg-grey-lightest">
+      <div>
         <Header />
         <main>
           <Router>
