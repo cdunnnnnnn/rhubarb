@@ -1,7 +1,7 @@
 # Rhubarb
 > A React, Babel, TailwindCSS starter w/ Jest
 
-[![CircleCI](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master.svg?style=svg)](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master)
+[![CircleCI](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master.svg?style=svg)](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master) [![Greenkeeper badge](https://badges.greenkeeper.io/cdunnnnnnn/rhubarb.svg)](https://greenkeeper.io/)
 
 - [React](https://reactjs.org/)
 - [Webpack](https://webpack.js.org/)
