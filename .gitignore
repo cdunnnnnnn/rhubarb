@@ -2,11 +2,7 @@
 node_modules/
 
 # Build directory
-dist
-
-# dotenv environment variables files
-.env
-.env*
+dist/
 
 # Logs
 logs
