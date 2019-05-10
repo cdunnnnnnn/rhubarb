@@ -1,4 +1,6 @@
-# Rhubarb
+[![Rhubarb](https://raw.githubusercontent.com/cdunnnnnnn/rhubarb-landing-page/master/src/img/social-preview.jpg?token=AAOM3MD6563RS6242VDFGT2434A5E)](https://getrhubarb.org)
+
+# [Rhubarb](https://getrhubarb.org)
 
 [![CircleCI](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master.svg?style=svg)](https://circleci.com/gh/cdunnnnnnn/rhubarb/tree/master) [![Greenkeeper badge](https://badges.greenkeeper.io/cdunnnnnnn/rhubarb.svg)](https://greenkeeper.io/) [![Known Vulnerabilities](https://snyk.io/test/github/cdunnnnnnn/rhubarb/badge.svg?targetFile=package.json)](https://snyk.io/test/github/cdunnnnnnn/rhubarb?targetFile=package.json) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
