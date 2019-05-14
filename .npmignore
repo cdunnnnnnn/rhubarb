@@ -1,0 +1,9 @@
+._*
+.DS_Store
+.git
+.snyk
+
+npm-debug.log
+
+dist/
+node_modules/

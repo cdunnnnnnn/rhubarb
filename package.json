@@ -1,7 +1,7 @@
 {
   "name": "rhubarb",
   "description": "A React, Babel, TailwindCSS starter w/ Jest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "@cdunnnnnnn",
   "homepage": "https://github.com/cdunnnnnnn/rhubarb",
   "license": "MIT",
