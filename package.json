@@ -19,7 +19,7 @@
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "snyk": "^2.0.0",
+    "snyk": "^1.213.0",
     "tailwindcss": "^1.0.1"
   },
   "devDependencies": {
