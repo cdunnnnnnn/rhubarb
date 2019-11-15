@@ -29,12 +29,7 @@ module.exports = {
           MiniCssExtractPlugin.loader,
           'css-loader',
           'postcss-loader',
-          {
-            loader: 'sass-loader',
-            options: {
-              plugins: () => [autoprefixer()],
-            },
-          },
+          'sass-loader',
         ],
       },
       {
