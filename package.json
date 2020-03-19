@@ -15,7 +15,7 @@
   "dependencies": {
     "browser-sync": "^2.26.5",
     "browser-sync-webpack-plugin": "^2.2.2",
-    "react": "^16.8.6",
+    "react": "^16.13.1",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
