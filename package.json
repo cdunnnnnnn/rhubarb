@@ -13,14 +13,14 @@
     "prepublish": "yarn run snyk-protect"
   },
   "dependencies": {
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.28.0",
     "browser-sync-webpack-plugin": "^2.2.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "snyk": "^1.248.0",
-    "tailwindcss": "^1.1.0"
+    "snyk": "^1.685.0",
+    "tailwindcss": "^2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
